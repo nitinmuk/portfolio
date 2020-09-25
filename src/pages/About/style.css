@@ -1,0 +1,18 @@
+#about-me-pane
+{
+    margin-top: 2%;
+    background-color: white;
+    font-family: sans-serif,Arial, Helvetica;
+    border-style: groove;
+}
+h4
+{
+    color: cadetblue;
+    background-color: white;
+    margin-top: 10%;
+}
+
+.image
+{
+    width: 100%;
+}
