@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9596b0aa.chunk.css",
-    "main.js": "/portfolio/static/js/main.dfaff451.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.dfaff451.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.8bb54d57.chunk.js": "/portfolio/static/js/2.8bb54d57.chunk.js",
-    "static/js/2.8bb54d57.chunk.js.map": "/portfolio/static/js/2.8bb54d57.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.bfcb9c3341a09a74ab053ace6970a025.js": "/portfolio/precache-manifest.bfcb9c3341a09a74ab053ace6970a025.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.9596b0aa.chunk.css.map": "/portfolio/static/css/main.9596b0aa.chunk.css.map",
-    "static/js/2.8bb54d57.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8bb54d57.chunk.js.LICENSE.txt",
-    "static/media/Nitin_Mukesh_Passport_Photo_Front.jpg": "/portfolio/static/media/Nitin_Mukesh_Passport_Photo_Front.a5577703.jpg"
+    "main.css": "/nm/static/css/main.9596b0aa.chunk.css",
+    "main.js": "/nm/static/js/main.f7eeda48.chunk.js",
+    "main.js.map": "/nm/static/js/main.f7eeda48.chunk.js.map",
+    "runtime-main.js": "/nm/static/js/runtime-main.b99745f2.js",
+    "runtime-main.js.map": "/nm/static/js/runtime-main.b99745f2.js.map",
+    "static/js/2.8bb54d57.chunk.js": "/nm/static/js/2.8bb54d57.chunk.js",
+    "static/js/2.8bb54d57.chunk.js.map": "/nm/static/js/2.8bb54d57.chunk.js.map",
+    "index.html": "/nm/index.html",
+    "precache-manifest.23fa3feb3843eb5d291e0bc61cda9a20.js": "/nm/precache-manifest.23fa3feb3843eb5d291e0bc61cda9a20.js",
+    "service-worker.js": "/nm/service-worker.js",
+    "static/css/main.9596b0aa.chunk.css.map": "/nm/static/css/main.9596b0aa.chunk.css.map",
+    "static/js/2.8bb54d57.chunk.js.LICENSE.txt": "/nm/static/js/2.8bb54d57.chunk.js.LICENSE.txt",
+    "static/media/Nitin_Mukesh_Passport_Photo_Front.jpg": "/nm/static/media/Nitin_Mukesh_Passport_Photo_Front.a5577703.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.209c2d7e.js",
+    "static/js/runtime-main.b99745f2.js",
     "static/js/2.8bb54d57.chunk.js",
     "static/css/main.9596b0aa.chunk.css",
-    "static/js/main.dfaff451.chunk.js"
+    "static/js/main.f7eeda48.chunk.js"
   ]
 }
