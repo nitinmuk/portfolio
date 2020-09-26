@@ -8,7 +8,7 @@ import About from "./pages/About";
 
 function App() {
   return (
-    <Router>      
+    <Router basename={process.env.PUBLIC_URL}>      
       <Header />      
       <Route exact path="/" component={About} />
           <Route exact path="/about" component={About} />
