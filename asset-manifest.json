@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e3009fd.chunk.css",
-    "main.js": "/static/js/main.dac13897.chunk.js",
-    "main.js.map": "/static/js/main.dac13897.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.20140761.chunk.js": "/static/js/2.20140761.chunk.js",
-    "static/js/2.20140761.chunk.js.map": "/static/js/2.20140761.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.69f5a0f6653028fad09ad48c88a83b6f.js": "/precache-manifest.69f5a0f6653028fad09ad48c88a83b6f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1e3009fd.chunk.css.map": "/static/css/main.1e3009fd.chunk.css.map",
-    "static/js/2.20140761.chunk.js.LICENSE.txt": "/static/js/2.20140761.chunk.js.LICENSE.txt",
-    "static/media/Budget_Tracker.JPG": "/static/media/Budget_Tracker.2c3842c1.JPG",
-    "static/media/Eat_Da_Burger.JPG": "/static/media/Eat_Da_Burger.835d6b08.JPG",
-    "static/media/Employee_Directory.JPG": "/static/media/Employee_Directory.65033924.JPG",
-    "static/media/Mara_Validator.JPG": "/static/media/Mara_Validator.2ce0ee62.JPG",
-    "static/media/Nitin_Mukesh_Passport_Photo_Front.jpg": "/static/media/Nitin_Mukesh_Passport_Photo_Front.a5577703.jpg",
-    "static/media/Timeless_Recipes.png": "/static/media/Timeless_Recipes.0047d259.png",
-    "static/media/workout-dashboard.JPG": "/static/media/workout-dashboard.e49097e5.JPG"
+    "main.css": "/portfolio/static/css/main.1e3009fd.chunk.css",
+    "main.js": "/portfolio/static/js/main.9c3e2d51.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9c3e2d51.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.20140761.chunk.js": "/portfolio/static/js/2.20140761.chunk.js",
+    "static/js/2.20140761.chunk.js.map": "/portfolio/static/js/2.20140761.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.9d9426d3c29f8d9a8e44a8e90bb834a5.js": "/portfolio/precache-manifest.9d9426d3c29f8d9a8e44a8e90bb834a5.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.1e3009fd.chunk.css.map": "/portfolio/static/css/main.1e3009fd.chunk.css.map",
+    "static/js/2.20140761.chunk.js.LICENSE.txt": "/portfolio/static/js/2.20140761.chunk.js.LICENSE.txt",
+    "static/media/Budget_Tracker.JPG": "/portfolio/static/media/Budget_Tracker.2c3842c1.JPG",
+    "static/media/Eat_Da_Burger.JPG": "/portfolio/static/media/Eat_Da_Burger.835d6b08.JPG",
+    "static/media/Employee_Directory.JPG": "/portfolio/static/media/Employee_Directory.65033924.JPG",
+    "static/media/Mara_Validator.JPG": "/portfolio/static/media/Mara_Validator.2ce0ee62.JPG",
+    "static/media/Nitin_Mukesh_Passport_Photo_Front.jpg": "/portfolio/static/media/Nitin_Mukesh_Passport_Photo_Front.a5577703.jpg",
+    "static/media/Timeless_Recipes.png": "/portfolio/static/media/Timeless_Recipes.0047d259.png",
+    "static/media/workout-dashboard.JPG": "/portfolio/static/media/workout-dashboard.e49097e5.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/runtime-main.209c2d7e.js",
     "static/js/2.20140761.chunk.js",
     "static/css/main.1e3009fd.chunk.css",
-    "static/js/main.dac13897.chunk.js"
+    "static/js/main.9c3e2d51.chunk.js"
   ]
 }
