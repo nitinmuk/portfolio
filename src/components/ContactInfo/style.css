@@ -1,0 +1,18 @@
+.iconStyle
+{
+    color: cadetblue;
+    font-size: xx-large;
+    margin-left: 40%;
+}
+#mobileNo
+{
+    color: cadetblue;
+    font-size: larger;
+    margin-left: 25%;
+    font-weight: bolder;
+}
+.mobile
+{
+    cursor: pointer;    
+
+}
