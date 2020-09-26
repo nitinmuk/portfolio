@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Timeless Recipes",
+    "deployedAppUrl": "https://timeless-recipes.herokuapp.com/",
+    "summary": "web app for managing and sharing your recipes.",
+    "techUsed": "Express, Handlebars, Node",
+    "githubUrl": "https://github.com/nitinmuk/timeless-recipes"
+  },
+  {
+    "id": "2",
+    "title": "Mara Validator",
+    "deployedAppUrl": "https://nitinmuk.github.io/mara-validator/",
+    "summary": "single page web app for validating code in multiple languages.",
+    "techUsed": "jQuery, Bulma",
+    "githubUrl": "https://github.com/nitinmuk/mara-validator"
+  },
+  {
+    "id": "3",
+    "title": "Employee Directory",
+    "deployedAppUrl": "https://nitinmuk.github.io/employee-directory/",
+    "summary": "a single page app to list, search and sort all employees.",
+    "techUsed": "React, Bootstrap",
+    "githubUrl": "https://github.com/nitinmuk/employee-directory"
+  },
+  {
+    "id": "4",
+    "title": "Budget Tracker",
+    "deployedAppUrl": "https://budget-tracker-nm.herokuapp.com/",
+    "summary": "a progressive web app which can be used to create and track funds with or without internet.",
+    "techUsed": "Node, MongoDB, Express, Webpack",
+    "githubUrl": "https://github.com/nitinmuk/budget-tracker"
+  },
+  {
+    "id": "5",
+    "title": "Fitness Tracker",
+    "deployedAppUrl": "https://fitness-tracker-nm.herokuapp.com/",
+    "summary": "an app to create and track daily workouts.",
+    "techUsed": "Node, MongoDB, Express",
+    "githubUrl": "https://github.com/nitinmuk/fitness-tracker"
+  },
+  {
+    "id": "6",
+    "title": "Eat Da Burger",
+    "deployedAppUrl": "https://eat-delicious-burger.herokuapp.com/",
+    "summary": "a restaurant app that lets users input the names of burgers they'd like to eat.",
+    "techUsed": "Node, mysql, Express, HandleBars",
+    "githubUrl": "https://github.com/nitinmuk/burger-logger"
+  }
+]
