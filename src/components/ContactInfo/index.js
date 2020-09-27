@@ -20,12 +20,12 @@ const ContactInfo = () => {
                     aria-expanded={open}
                 />
                 <Collapse in={open}>
-                    <div id="mobileNo">0406105475</div>
+                    <div id="mobileNo"><a style={{color:"cadetblue"}}href="tel:+61406105475">+61406105475</a></div>
                 </Collapse>
             </ListGroup.Item>
             <ListGroup.Item><a className="iconStyle" href="https://linkedin.com/in/nitin-mukesh-2019"><SiLinkedin /></a></ListGroup.Item>
             <ListGroup.Item><a className="iconStyle" href="https://github.com/nitinmuk"><FaGithubSquare /></a></ListGroup.Item>
-            <ListGroup.Item><a className="iconStyle" href="https://drive.google.com/file/d/18epOcoPo_HbZnjlnBq0Vo6xNh1Tdcx4e/view?usp=sharing"><IoIosDocument /></a></ListGroup.Item>
+            <ListGroup.Item><a className="iconStyle" href="https://drive.google.com/file/d/1S8euIQPWGTMIiJbYl5zPnH1i6nUUMDuz/view?usp=sharing"><IoIosDocument /></a></ListGroup.Item>
         </ListGroup>
 
     );
