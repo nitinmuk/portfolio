@@ -3,6 +3,9 @@ import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 
 const contactForm = () => {
+    const handleSubmit = event => {
+        event.preventDefault();
+    }
     return (
         <Form>
             <Form.Group controlId="controlInput1">
@@ -20,9 +23,9 @@ const contactForm = () => {
                 <Form.Label>Message</Form.Label>
                 <Form.Control as="textarea" rows="3" />
             </Form.Group>          
-            <Button variant="info" type="submit">
-                        Submit
-                    </Button>
+            <Button variant="info" type="submit" onClick={handleSubmit}>
+                Submit
+            </Button>
         </Form>
 
     );
