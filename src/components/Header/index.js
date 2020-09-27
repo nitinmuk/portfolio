@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import "./style.css";
+import { Link } from "react-router-dom";
 
 const Header = () => {
     return (
@@ -11,9 +12,27 @@ const Header = () => {
             <Navbar.Collapse>
                 <Nav className="mr-auto" />
                 <Nav>
-                    <Nav.Link href="about">About</Nav.Link>
-                    <Nav.Link href="portfolio">Portfolio</Nav.Link>
-                    <Nav.Link href="contact">Contact</Nav.Link>
+                    <Link to="/"
+                        className={
+                            window.location.pathname === "/" || window.location.pathname === "/about"
+                                ? "nav-link active"
+                                : "nav-link"
+                        }>About
+                    </Link>
+                    <Link to="/portfolio"
+                        className={
+                            window.location.pathname === "/portfolio"
+                                ? "nav-link active"
+                                : "nav-link"
+                        }>Portfolio
+                    </Link>
+                    <Link to="/contact"
+                        className={
+                            window.location.pathname === "/contact"
+                                ? "nav-link active"
+                                : "nav-link"
+                        }>Contact
+                    </Link>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>
