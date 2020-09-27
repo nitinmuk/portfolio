@@ -7,7 +7,16 @@ import { Link } from "react-router-dom";
 const Header = () => {
     return (
         <Navbar bg="light" variant="light" expand="md">
-            <Navbar.Brand href="about"><h3>Nitin Mukesh</h3></Navbar.Brand>
+            <Navbar.Brand>
+                <Link to="/"
+                    className={
+                        window.location.pathname === "/" || window.location.pathname === "/about"
+                            ? "nav-link active"
+                            : "nav-link"
+                    }>
+                <h3>Nitin Mukesh</h3>
+                </Link>
+            </Navbar.Brand>
             <Navbar.Toggle />
             <Navbar.Collapse>
                 <Nav className="mr-auto" />
