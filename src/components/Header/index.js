@@ -26,21 +26,21 @@ const Header = () => {
                             window.location.pathname === "/" || window.location.pathname === "/about"
                                 ? "nav-link active"
                                 : "nav-link"
-                        }>About
+                        }><h6>About</h6>
                     </Link>
                     <Link to="/portfolio"
                         className={
                             window.location.pathname === "/portfolio"
                                 ? "nav-link active"
                                 : "nav-link"
-                        }>Portfolio
+                        }><h6>Portfolio</h6>
                     </Link>
                     <Link to="/contact"
                         className={
                             window.location.pathname === "/contact"
                                 ? "nav-link active"
                                 : "nav-link"
-                        }>Contact
+                        }><h6>Contact</h6>
                     </Link>
                 </Nav>
             </Navbar.Collapse>

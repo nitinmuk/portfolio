@@ -3,4 +3,14 @@ h3
     padding : 10px;
     background-color: cadetblue;
     color: white;
+    opacity: 0.9;
+}
+
+h6
+{
+    color: cadetblue;
+    opacity: 0.9;
+}
+h6:hover,h3:hover {
+    opacity: 1;
 }
