@@ -8,12 +8,12 @@
     color: cadetblue;
     background-color: white
 }
-
-.carousel-inner {
-    position: relative;
-    /* Removed height here */
-    overflow: hidden;
-  }
+@media (max-width: 900px) {
+    .carousel {
+      width:auto;
+      height:auto;
+    }
+}
 
 .icon {
     font-size: xx-large;
