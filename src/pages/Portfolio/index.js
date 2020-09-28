@@ -44,6 +44,10 @@ const Portfolio = () => {
         </div>
     )
 }
+
+/**
+ * updates imported projects array with screenshot for each project
+ */
 function populateImage() {
     projects[0].image = timelessRecipe;
     projects[1].image = maraValidator;
