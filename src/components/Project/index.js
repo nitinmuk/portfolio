@@ -27,8 +27,8 @@ function getCarouselItems(props) {
                     
                     <Carousel.Caption>
                     <h5><a className="projectLink" href={projectItem.githubUrl} target="_blank" rel="noopener noreferrer"><FaGithubSquare/></a></h5>
-                    <p><a className="projectLink" href={projectItem.deployedAppUrl} target="_blank" rel="noopener noreferrer">{projectItem.title}</a> : {projectItem.summary}</p>
-                    <p> Technologies: {projectItem.techUsed}</p>
+                    <h5><a className="projectLink" href={projectItem.deployedAppUrl} target="_blank" rel="noopener noreferrer">{projectItem.title}</a> : {projectItem.summary}</h5>
+                    <h5> Technologies: {projectItem.techUsed}</h5>
                     </Carousel.Caption>
                 </Carousel.Item>
             );
