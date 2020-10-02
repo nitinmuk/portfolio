@@ -9,7 +9,7 @@
     background-color: white
 }
 
-.carousel-inner {
+/*.carousel-inner {
     position: relative;
     overflow: hidden;
   }
@@ -19,7 +19,7 @@
     height: 100vh;
     display: none;
     width: 100%;
-  }
+  }*/
 
 .icon {
     font-size: xx-large;
