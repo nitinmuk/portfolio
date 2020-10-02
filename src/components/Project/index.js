@@ -16,17 +16,18 @@ function getCarouselItems(props) {
     const carouselItems = props.projectDetails.map(
         projectItem => {
             return (
-                <Carousel.Item key={projectItem.id}>                    
-                    <img
-                        className="d-block w-100"
-                        src={projectItem.image}
-                        alt={projectItem.title}
-                    />
+                <Carousel.Item key={projectItem.id}>
+                    <a href={projectItem.deployedAppUrl} target="_blank" rel="noopener noreferrer">
+                        <img
+                            className="d-block w-100"
+                            src={projectItem.image}
+                            alt={projectItem.title}
+                        />
+                    </a>
+                    
                     <Carousel.Caption>
-                        <h5><a className="projectLink" href={projectItem.deployedAppUrl} target="_blank" rel="noopener noreferrer">{projectItem.title}</a></h5>
-                        <h5>{projectItem.summary}</h5>
-                        <h5>Technologies: {projectItem.techUsed}</h5>
-                        <h5><a className="projectLink" href={projectItem.githubUrl} target="_blank" rel="noopener noreferrer"><FaGithubSquare className="icon" /></a></h5>                        
+                    <h5><a className="projectLink" href={projectItem.githubUrl} target="_blank" rel="noopener noreferrer"><FaGithubSquare/></a></h5>
+                    <p><a className="projectLink" href={projectItem.deployedAppUrl} target="_blank" rel="noopener noreferrer">{projectItem.title}</a> : {projectItem.summary} Technologies: {projectItem.techUsed}</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             );

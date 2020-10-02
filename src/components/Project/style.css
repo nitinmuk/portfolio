@@ -1,26 +1,42 @@
-.carousel-control-next,
-.carousel-control-prev,
+.projectLink {
+    color: white
+}
+/* Makes images fully responsive */
+.img-responsive,
+.thumbnail > img,
+.thumbnail a > img,
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* ------------------- Carousel Styling ------------------- */
+
+.carousel-inner {
+  border-radius: 15px;
+}
+
+.carousel-caption {
+  background-color: rgba(0,0,0,.5);
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+  padding: 0 0 10px 25px;
+  color: #fff;
+  text-align: center;
+}
+
 .carousel-indicators {
+  display: none;
+}
+
+/* to make control visible/black as default is white */
+.carousel-control-next,
+.carousel-control-prev
+{
     filter: invert(100%);
-}
-
-.carousel-caption,.projectLink {
-    color: cadetblue;
-    background-color: white
-}
-
-/*.carousel-inner {
-    position: relative;
-    overflow: hidden;
-  }
-  .carousel-item {
-    position: relative;
-    width: 100vh;
-    height: 100vh;
-    display: none;
-    width: 100%;
-  }*/
-
-.icon {
-    font-size: xx-large;
 }
