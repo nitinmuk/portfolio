@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8fdac7e5.chunk.css",
-    "main.js": "/portfolio/static/js/main.24c132f0.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.24c132f0.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.8d4a71d3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8d4a71d3.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/js/2.12658abe.chunk.js": "/portfolio/static/js/2.12658abe.chunk.js",
     "static/js/2.12658abe.chunk.js.map": "/portfolio/static/js/2.12658abe.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.899a5ffa19fb9a62d76468484ca04815.js": "/portfolio/precache-manifest.899a5ffa19fb9a62d76468484ca04815.js",
+    "precache-manifest.fc9f1818f6f24fc0b85c50e93ebee8b4.js": "/portfolio/precache-manifest.fc9f1818f6f24fc0b85c50e93ebee8b4.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.8fdac7e5.chunk.css.map": "/portfolio/static/css/main.8fdac7e5.chunk.css.map",
     "static/js/2.12658abe.chunk.js.LICENSE.txt": "/portfolio/static/js/2.12658abe.chunk.js.LICENSE.txt",
     "static/media/Budget_Tracker.JPG": "/portfolio/static/media/Budget_Tracker.2c3842c1.JPG",
-    "static/media/Eat_Da_Burger.JPG": "/portfolio/static/media/Eat_Da_Burger.835d6b08.JPG",
     "static/media/Employee_Directory.JPG": "/portfolio/static/media/Employee_Directory.65033924.JPG",
     "static/media/Mara_Validator.JPG": "/portfolio/static/media/Mara_Validator.2ce0ee62.JPG",
     "static/media/Nitin_Mukesh_Passport_Photo_Front.jpg": "/portfolio/static/media/Nitin_Mukesh_Passport_Photo_Front.a5577703.jpg",
+    "static/media/Search_Page.JPG": "/portfolio/static/media/Search_Page.9542c763.JPG",
     "static/media/Timeless_Recipes.png": "/portfolio/static/media/Timeless_Recipes.0047d259.png",
     "static/media/workout-dashboard.JPG": "/portfolio/static/media/workout-dashboard.e49097e5.JPG"
   },
@@ -24,6 +24,6 @@
     "static/js/runtime-main.209c2d7e.js",
     "static/js/2.12658abe.chunk.js",
     "static/css/main.8fdac7e5.chunk.css",
-    "static/js/main.24c132f0.chunk.js"
+    "static/js/main.8d4a71d3.chunk.js"
   ]
 }

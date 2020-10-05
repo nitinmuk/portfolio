@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cff17dcfae44010377e64638d7ab072a",
+    "revision": "54568b7e9980aebba0400ad2602ec259",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "d75a64d3a9fe1068993a",
+    "revision": "a8746e286a7fda8824ce",
     "url": "/portfolio/static/css/main.8fdac7e5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.12658abe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d75a64d3a9fe1068993a",
-    "url": "/portfolio/static/js/main.24c132f0.chunk.js"
+    "revision": "a8746e286a7fda8824ce",
+    "url": "/portfolio/static/js/main.8d4a71d3.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2c3842c1cdc19941a1947c41843ee50b",
     "url": "/portfolio/static/media/Budget_Tracker.2c3842c1.JPG"
-  },
-  {
-    "revision": "835d6b087604a85256e19f88bff9bc3f",
-    "url": "/portfolio/static/media/Eat_Da_Burger.835d6b08.JPG"
   },
   {
     "revision": "650339246ed9b42e984fe45d9d32b935",
@@ -42,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a55777037308ef92b136ce9111be2723",
     "url": "/portfolio/static/media/Nitin_Mukesh_Passport_Photo_Front.a5577703.jpg"
+  },
+  {
+    "revision": "9542c76336bf64504891b30942e2164c",
+    "url": "/portfolio/static/media/Search_Page.9542c763.JPG"
   },
   {
     "revision": "0047d259eb79e2f6b273514d645b3986",
