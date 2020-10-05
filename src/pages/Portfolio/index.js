@@ -8,7 +8,7 @@ import maraValidator from "./images/Mara_Validator.JPG";
 import employeeDir from "./images/Employee_Directory.JPG";
 import budgetTracker from "./images/Budget_Tracker.JPG";
 import fitnessTracker from "./images/workout-dashboard.JPG";
-import eatDaBurger from "./images/Eat_Da_Burger.JPG";
+import googleBookSearch from "./images/Search_Page.JPG";
 import Project from "../../components/Project";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -51,10 +51,10 @@ const Portfolio = () => {
 function populateImage() {
     projects[0].image = timelessRecipe;
     projects[1].image = maraValidator;
-    projects[2].image = employeeDir;
-    projects[3].image = budgetTracker;
-    projects[4].image = fitnessTracker;
-    projects[5].image = eatDaBurger;
+    projects[2].image = googleBookSearch;
+    projects[3].image = employeeDir;
+    projects[4].image = budgetTracker;
+    projects[5].image = fitnessTracker;
 }
 
 export default Portfolio;

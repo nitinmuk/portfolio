@@ -17,14 +17,23 @@
   },
   {
     "id": "3",
+    "title": "Google Book Search",
+    "deployedAppUrl": "https://google-book-search-nm.herokuapp.com/",
+    "summary": "a single page web application to search books using any text via google book API and save the books details to check later.",
+    "techUsed": "Mongo, Express, React, Node, Semantic UI",
+    "githubUrl": "https://github.com/nitinmuk/google-book-search"
+  },
+  {
+    "id": "4",
     "title": "Employee Directory",
     "deployedAppUrl": "https://nitinmuk.github.io/employee-directory/",
     "summary": "a single page application to list, search and sort all employees.",
     "techUsed": "React, Bootstrap",
     "githubUrl": "https://github.com/nitinmuk/employee-directory"
   },
+  
   {
-    "id": "4",
+    "id": "5",
     "title": "Budget Tracker",
     "deployedAppUrl": "https://budget-tracker-nm.herokuapp.com/",
     "summary": "a progressive web application which can be used to create and track funds with or without internet.",
@@ -32,19 +41,11 @@
     "githubUrl": "https://github.com/nitinmuk/budget-tracker"
   },
   {
-    "id": "5",
+    "id": "6",
     "title": "Fitness Tracker",
     "deployedAppUrl": "https://fitness-tracker-nm.herokuapp.com/",
     "summary": "a web application to create and track daily workouts.",
     "techUsed": "Node, MongoDB, Express",
     "githubUrl": "https://github.com/nitinmuk/fitness-tracker"
-  },
-  {
-    "id": "6",
-    "title": "Eat Da Burger",
-    "deployedAppUrl": "https://eat-delicious-burger.herokuapp.com/",
-    "summary": "a restaurant application that lets users input the names of burgers they'd like to eat.",
-    "techUsed": "Node, mysql, Express, HandleBars",
-    "githubUrl": "https://github.com/nitinmuk/burger-logger"
   }
 ]
