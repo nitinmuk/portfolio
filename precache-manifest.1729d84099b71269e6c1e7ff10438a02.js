@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54568b7e9980aebba0400ad2602ec259",
+    "revision": "ce528002bad5469295b992267972ea8c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "a8746e286a7fda8824ce",
+    "revision": "f4aa253b157c37328ef7",
     "url": "/portfolio/static/css/main.8fdac7e5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.12658abe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8746e286a7fda8824ce",
-    "url": "/portfolio/static/js/main.8d4a71d3.chunk.js"
+    "revision": "f4aa253b157c37328ef7",
+    "url": "/portfolio/static/js/main.ac2a3fdb.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Nitin_Mukesh_Passport_Photo_Front.a5577703.jpg"
   },
   {
-    "revision": "9542c76336bf64504891b30942e2164c",
-    "url": "/portfolio/static/media/Search_Page.9542c763.JPG"
+    "revision": "9f3894321f0e595810731a325f8b778c",
+    "url": "/portfolio/static/media/Search_Page.9f389432.JPG"
   },
   {
     "revision": "0047d259eb79e2f6b273514d645b3986",
