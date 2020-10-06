@@ -36,7 +36,7 @@
     "id": "5",
     "title": "Budget Tracker",
     "deployedAppUrl": "https://budget-tracker-nm.herokuapp.com/",
-    "summary": "a progressive web application which can be used to create and track funds with or without internet.",
+    "summary": "a progressive web application which can be used to track funds with or without internet.",
     "techUsed": "Node, MongoDB, Express, Webpack",
     "githubUrl": "https://github.com/nitinmuk/budget-tracker"
   },
