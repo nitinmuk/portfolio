@@ -14,7 +14,7 @@ const About = () => {
             <Header />
             <Container>
                 <Row>
-                    <Col md={8} id="about-me-pane">
+                    <Col md={12} id="about-me-pane">
                         <Row>
                             <Col md={4}>
                                 <h4>About Me</h4>
@@ -32,7 +32,7 @@ const About = () => {
                                 />
                             </Col>
                             <Col md={10}>
-                                <ul>
+                                <ul style={{fontSize:"20px"}}>
                                     <li>
                                         Full Stack Developer & AWS Certified Solution Architect Associate with 11 years of experience in the
                                         software development and implementation using Java, SQL and related technologies.
