@@ -25,7 +25,7 @@ const ContactInfo = () => {
             </ListGroup.Item>
             <ListGroup.Item><a className="iconStyle" href="https://linkedin.com/in/nitin-mukesh-2019" target="_blank" rel="noopener noreferrer"><SiLinkedin /></a></ListGroup.Item>
             <ListGroup.Item><a className="iconStyle" href="https://github.com/nitinmuk" target="_blank" rel="noopener noreferrer"><FaGithubSquare /></a></ListGroup.Item>
-            <ListGroup.Item><a className="iconStyle" href="https://drive.google.com/file/d/1S8euIQPWGTMIiJbYl5zPnH1i6nUUMDuz/view?usp=sharing" target="_blank" rel="noopener noreferrer"><IoIosDocument /></a></ListGroup.Item>
+            <ListGroup.Item><a className="iconStyle" href="https://bit.ly/nmresume2020" target="_blank" rel="noopener noreferrer"><IoIosDocument /></a></ListGroup.Item>
         </ListGroup>
 
     );
