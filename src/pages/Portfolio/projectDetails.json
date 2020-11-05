@@ -1,6 +1,14 @@
 [
   {
     "id": "1",
+    "title": "Agile Learning",
+    "deployedAppUrl": "https://bit.ly/alnm2020",
+    "summary": "An online platform for instructors to publish short courses and students to find and subscribe to those interactive learning courses.",
+    "techUsed": "Mongo, Express, React, Node",
+    "githubUrl": "https://github.com/nitinmuk/agile-learning"
+  },
+  {
+    "id": "2",
     "title": "Timeless Recipes",
     "deployedAppUrl": "https://timeless-recipes.herokuapp.com/",
     "summary": "a web application for managing and sharing your recipes.",
@@ -8,7 +16,7 @@
     "githubUrl": "https://github.com/nitinmuk/timeless-recipes"
   },
   {
-    "id": "2",
+    "id": "3",
     "title": "Mara Validator",
     "deployedAppUrl": "https://nitinmuk.github.io/mara-validator/",
     "summary": "single page web application for validating code in multiple languages.",
@@ -16,7 +24,7 @@
     "githubUrl": "https://github.com/nitinmuk/mara-validator"
   },
   {
-    "id": "3",
+    "id": "4",
     "title": "Google Book Search",
     "deployedAppUrl": "https://google-book-search-nm.herokuapp.com/",
     "summary": "a single page web application to search books using any text via google book API and save the books details to check later.",
@@ -24,16 +32,15 @@
     "githubUrl": "https://github.com/nitinmuk/google-book-search"
   },
   {
-    "id": "4",
+    "id": "5",
     "title": "Employee Directory",
     "deployedAppUrl": "https://nitinmuk.github.io/employee-directory/",
     "summary": "a single page application to list, search and sort all employees.",
     "techUsed": "React, Bootstrap",
     "githubUrl": "https://github.com/nitinmuk/employee-directory"
   },
-  
   {
-    "id": "5",
+    "id": "6",
     "title": "Budget Tracker",
     "deployedAppUrl": "https://budget-tracker-nm.herokuapp.com/",
     "summary": "a progressive web application which can be used to track funds with or without internet.",
@@ -41,7 +48,7 @@
     "githubUrl": "https://github.com/nitinmuk/budget-tracker"
   },
   {
-    "id": "6",
+    "id": "7",
     "title": "Fitness Tracker",
     "deployedAppUrl": "https://fitness-tracker-nm.herokuapp.com/",
     "summary": "a web application to create and track daily workouts.",
