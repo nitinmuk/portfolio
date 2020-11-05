@@ -9,6 +9,7 @@ import employeeDir from "./images/Employee_Directory.JPG";
 import budgetTracker from "./images/Budget_Tracker.JPG";
 import fitnessTracker from "./images/workout-dashboard.JPG";
 import googleBookSearch from "./images/Search_Page.JPG";
+import agileLearning from "./images/Agile_Learning.JPG";
 import Project from "../../components/Project";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -49,12 +50,13 @@ const Portfolio = () => {
  * updates imported projects array with screenshot for each project
  */
 function populateImage() {
-    projects[0].image = timelessRecipe;
-    projects[1].image = maraValidator;
-    projects[2].image = googleBookSearch;
-    projects[3].image = employeeDir;
-    projects[4].image = budgetTracker;
-    projects[5].image = fitnessTracker;
+    projects[0].image = agileLearning;
+    projects[1].image = timelessRecipe;
+    projects[2].image = maraValidator;
+    projects[3].image = googleBookSearch;
+    projects[4].image = employeeDir;
+    projects[5].image = budgetTracker;
+    projects[6].image = fitnessTracker;
 }
 
 export default Portfolio;
